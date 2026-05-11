@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**CameronLong/CameronLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cameron, a software engineer and cybersecurity student at Embry-Ridle Aeronautical University.
 
-Here are some ideas to get you started:
+I mostly work on website development, but have started to dip my toes into embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Tech
+- React, JavaScript
+- Figma
+- Excel
+
+## A Bit About Me
+- Magic: The Gathering hobbyist
+- I love video games - Subnautica is a favorite
+- I like building simple projects that help me in my day-to-day life
